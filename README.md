@@ -6,12 +6,12 @@ Este proyecto fue desarrollado con el objetivo de mostrar mis **habilidades, con
 
 ---
 
-## Enlace al sitio implementado
+## Enlace al sitio implementado en Replit
 👉 [Ver portafolio en línea](https://e5f52b5e-8e17-4741-9bd9-5409d080c426-00-ctlrxsugp90o.kirk.replit.dev/)
 
 ---
 
-## Enlace al sitio implementado
+## Enlace al sitio implementado en Render
 👉 [Ver portafolio en línea](https://portafolio-3-gc47.onrender.com)
 
 ---
@@ -33,6 +33,7 @@ El sitio incluye secciones informativas sobre mí, mis proyectos realizados, mis
 - **JavaScript** → para la interacción dinámica del contenido.  
 - **Replit y Render** → para la implementación y alojamiento del sitio.  
 - **GitHub** → para el control de versiones y publicación del código.
+
 
 
 
