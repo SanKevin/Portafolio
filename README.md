@@ -11,6 +11,11 @@ Este proyecto fue desarrollado con el objetivo de mostrar mis **habilidades, con
 
 ---
 
+## Enlace al sitio implementado
+👉 [Ver portafolio en línea](https://portafolio-3-gc47.onrender.com)
+
+---
+
  ## Repositorio del proyecto
 [Ver repositorio en GitHub](https://github.com/SanKevin/Portafolio.git)
 
@@ -26,8 +31,9 @@ El sitio incluye secciones informativas sobre mí, mis proyectos realizados, mis
 - **HTML5** → para la estructura del sitio.  
 - **CSS3 / Bootstrap** → para los estilos y diseño responsivo.  
 - **JavaScript** → para la interacción dinámica del contenido.  
-- **Replit** → para la implementación y alojamiento del sitio.  
+- **Replit y Render** → para la implementación y alojamiento del sitio.  
 - **GitHub** → para el control de versiones y publicación del código.
+
 
 
 
